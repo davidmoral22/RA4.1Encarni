@@ -4,4 +4,8 @@ public class miniCalculadora {
         return Math.abs(numero);
     }
 
+    public static double raizCuadrada(double numero) {
+        return Math.sqrt(numero);
+    }
+
 }
