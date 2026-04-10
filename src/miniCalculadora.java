@@ -17,6 +17,11 @@ public class miniCalculadora {
         return Math.abs(numero);
     }
 
+    /**
+     * Calcula la raíz cuadrada de un número.
+     * * @param numero El valor del cual obtener la raíz.
+     * @return La raíz cuadrada del número.
+     */
     public static double raizCuadrada(double numero) {
         return Math.sqrt(numero);
     }
