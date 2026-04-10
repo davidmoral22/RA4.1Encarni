@@ -25,4 +25,5 @@ public class miniCalculadora {
     public static double raizCuadrada(double numero) {
         return Math.sqrt(numero);
     }
+
 }
